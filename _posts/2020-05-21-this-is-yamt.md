@@ -1,5 +1,5 @@
 ---
-title: This is YAMT!
+title: MARVELSNAP
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
