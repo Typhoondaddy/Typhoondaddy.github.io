@@ -2,7 +2,7 @@
 title: 漫威牌面馆<br>The Noodle Cafe<br>of Marvel Snap
 description: "网站还在建设中"
 url:  "itszh.us" # Actual base url of the website
-baseurl: "/marvelsnap"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+baseurl: "marvelsnap"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "stanlee"
   email: "hello@itszh.us"
