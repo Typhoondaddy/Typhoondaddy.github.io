@@ -1,5 +1,5 @@
 # Site settings
-title: 漫威牌 Marvel Snap
+title: 漫威牌面馆<br>The Noodle Restaurant of Marvel Snap
 description: "网站还在建设中"
 url:  "https://itszh.us" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
