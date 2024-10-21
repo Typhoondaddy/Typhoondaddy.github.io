@@ -3,5 +3,5 @@
 
 
 social:
-  - {icon: 'twitter', type: "brand", link: 'https://fontawesome.com/icons/x-twitter?f=brands&s=solid'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/PandaSekh'}
   - {icon: 'envelope', type: "solid", link: 'mailto:hello@itszh.us'}
