@@ -3,5 +3,5 @@
 
 
 social:
-  - {icon: 'x-twitter', type: "brand", link: 'https://x.com/askwangpenny'}
+  - {icon: 'x-twitter', type: "brand", link: 'https://fontawesome.com/icons/x-twitter?f=brands&s=solid'}
   - {icon: 'envelope', type: "solid", link: 'mailto:hello@itszh.us'}
