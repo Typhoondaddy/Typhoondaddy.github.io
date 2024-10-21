@@ -1,4 +1,4 @@
 pages:
-  - {name: 'About', url: 'about.html'}
-  - {name: 'Contact', url: 'contact.html'}
-  - {name: 'Archive', url: 'archive.html'}
+  - {name: '关于我们', url: 'about.html'}
+  - {name: '精选文章', url: 'contact.html'}
+  - {name: '往期资讯', url: 'archive.html'}

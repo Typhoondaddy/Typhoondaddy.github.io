@@ -4,7 +4,4 @@
 
 social:
   - {icon: 'x', type: "brand", link: 'https://x.com/askwangpenny'}
-  - {icon: 'weibo', type: "brand", link: 'https://weibo.com/u/1396875167'}
-
   - {icon: 'envelope', type: "solid", link: 'mailto:hello@itszh.us'}
-  - {icon: 'rss', type: "solid", link: "/feed.xml"}
