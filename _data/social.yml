@@ -3,5 +3,5 @@
 
 
 social:
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/PandaSekh'}
+  - {icon: 'x-twitter', type: "brand", link: 'https://twitter.com/PandaSekh'}
   - {icon: 'envelope', type: "solid", link: 'mailto:hello@itszh.us'}
