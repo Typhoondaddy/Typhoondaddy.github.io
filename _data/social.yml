@@ -3,5 +3,5 @@
 
 
 social:
-  - {icon: 'x', type: "brand", link: 'https://x.com/askwangpenny'}
+  - {icon: 'x-twitter', type: "solid", link: 'https://x.com/askwangpenny'}
   - {icon: 'envelope', type: "solid", link: 'mailto:hello@itszh.us'}
