@@ -10,7 +10,7 @@ $messenger: #0084ff;
 $youtube: #ff0000;
 $whatsapp: #25d366;
 $reddit: #ff4500;
-$wechat: #07C160;
+$weixin: #07C160;
 
 header{
     margin-left: auto;
@@ -99,8 +99,8 @@ header{
                 #reddit:hover{
                     color: $reddit;
                 }
-                #wechat:hover{
-                    color: $wechat;
+                #wexin:hover{
+                    color: $wexin;
                 }
             }
         }
