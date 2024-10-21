@@ -17,7 +17,7 @@ paginate: 3
 paginate_path: "/page:num/"
 
 #SEO
-twitter:
+x:
   username: wangpenny
   card: summary
 facebook:
@@ -27,7 +27,7 @@ facebook:
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/wangpenny
+    - https://x.com/wangpenny
 webmaster_verifications:
   google: 
   bing: 
