@@ -4,5 +4,5 @@
 
 social:
   - {icon: 'weixin', type: "brand", link: 'https://s2.loli.net/2024/10/21/Du6AbdZw2ej5s1X.jpg'}
-  - {icon: 'twitter', type: "brand", link: 'https://x.com/wangpenny'}
+  - {icon: 'x-twitter', type: "brand", link: 'https://x.com/wangpenny'}
   - {icon: 'envelope', type: "solid", link: 'mailto:hello@itszh.us'}
