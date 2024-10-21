@@ -17,7 +17,7 @@ paginate: 3
 paginate_path: "/page:num/"
 
 #SEO
-x-twitter:
+twitter:
   username: wangpenny
   card: summary
 facebook:
@@ -34,7 +34,7 @@ webmaster_verifications:
   alexa: 
   yandex: 
   baidu: 
-lang: en_US
+lang: zh_CN
 
 #Highlighter
 kramdown:
