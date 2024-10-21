@@ -1,6 +1,6 @@
 # Site settings
-title: 漫威牌面馆
-description: "The Noodles Cafe of Marvel Snap"
+title: MW牌面馆
+description: "The Noodles Cafe of M.S."
 url:  "https://itszh.us" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
@@ -28,8 +28,6 @@ logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
     - https://twitter.com/wangpenny
-    - https://www.github.com/pandasekh
-    - https://www.linkedin.com/in/alessio-franceschi/
 webmaster_verifications:
   google: 
   bing: 
